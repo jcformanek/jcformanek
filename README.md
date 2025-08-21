@@ -8,6 +8,7 @@
 
 - 🎓 **PhD candidate** in Multi-agent Reinforcement Learning, University of Cape Town (UCT)
 - 🧠 Member of [Shocklab](https://shocklab.net) research group at UCT
+- 🧑‍🤝‍🧑[Cooperative AI Foundation](https://www.cooperativeai.com/post/announcing-the-2025-cooperative-ai-phd-scholars) PhD Fellow 
 - 🌍 Based in **Cape Town, South Africa**
 
 
