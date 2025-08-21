@@ -20,23 +20,18 @@
 
 ## 🚀 Projects & Publications
 
-- [**og-marl**](https://github.com/jcformanek/og-marl):  
-  *Offline Multi-Agent Reinforcement Learning benchmarking repository.*
-- 📝 **Offline MARL Benchmarking Paper**:  
-  Published at NeurIPS 2024  
-  [Read the abstract](https://proceedings.neurips.cc/paper_files/paper/2024/hash/fc6247c33cff077a3910d0c28463f445-Abstract-Datasets_and_Benchmarks_Track.html)  
+- 👾**Offline MARL Benchmarking Code**: Open-source repository [og-marl](https://github.com/jcformanek/og-marl).
+- 📝 **Offline MARL Benchmarking Paper**: Published at [NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/fc6247c33cff077a3910d0c28463f445-Abstract-Datasets_and_Benchmarks_Track.html).  
 
-## 🌐 Find Me Elsewhere
-
+## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/claude-formanek/)
-- [Shocklab Research Group](https://shocklab.net)
 
 ---
 
 ### 🗺️ Interests
 
 - Multi-agent AI systems
-- Rreinforcement learning
+- Reinforcement learning
 - Open science, reproducible research
 
 ---
