@@ -8,7 +8,7 @@
 
 - 🎓 **PhD candidate** in Multi-agent Reinforcement Learning, University of Cape Town (UCT)
 - 🧠 Member of [Shocklab](https://shocklab.net) research group at UCT
-- 🌍 Proudly based in **Cape Town, South Africa**
+- 🌍 Based in **Cape Town, South Africa**
 
 
 ## 🛠️ Skills & Tools
