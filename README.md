@@ -16,7 +16,7 @@
 - **Python**
 - **JAX**
 - **PyTorch** & **TensorFlow 2**
-- **Multi-agent RL** | **Offline RL**
+- **Multi-agent RL** & **Offline RL**
 
 ## 🚀 Projects & Publications
 
