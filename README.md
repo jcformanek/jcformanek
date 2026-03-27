@@ -29,14 +29,4 @@
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/claude-formanek/)
 
----
-
-### 🗺️ Interests
-
-- Multi-agent AI systems
-- Reinforcement learning
-- Open science, reproducible research
-
----
-
-> “Advancing the frontier of multi-agent intelligence.”
+> “Advancing the frontier of safe and beneficial multi-agent intelligence.”
